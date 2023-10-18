@@ -1,4 +1,4 @@
-# ACE Chatbot
+# ACE Chatbot with rolling episodic memory
 This project implements an chatbot powered by an Autonomous Cognitive Entity (ACE) to answer questions about its internal state.
 
 ![ACE Chatbot Demo](Screenshot%202023-10-18%20134149.png)
