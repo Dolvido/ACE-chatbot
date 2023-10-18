@@ -1,7 +1,7 @@
 # ACE Chatbot
 This project implements an chatbot powered by an Autonomous Cognitive Entity (ACE) to answer questions about its internal state.
 
-![Alt text](Screenshot 2023-10-18 134149.png)
+![ACE Chatbot Demo](Screenshot%202023-10-18%20134149.png)
 
 # Overview
 The chatbot is built using the LangChain library and consists of the following main components:
